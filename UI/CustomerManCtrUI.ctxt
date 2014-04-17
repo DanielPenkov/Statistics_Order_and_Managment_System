@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=inputParser
+comment0.target=CustomerManCtrUI(InputParser)
+comment1.params=
+comment1.target=void\ start()
+comment2.params=
+comment2.target=void\ printCustomer()
+comment3.params=
+comment3.target=void\ createCustomer()
+comment4.params=
+comment4.target=void\ printAllCustomers()
+comment5.params=
+comment5.target=void\ updateCustomer()
+numComments=6

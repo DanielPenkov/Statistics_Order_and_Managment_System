@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CustomerManager()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CustomerManager\r\n
+comment1.params=
+comment1.target=CustomerManager\ getInstance()
+comment10.params=customer
+comment10.target=void\ addCustomer(Customer)
+comment2.params=customerId\ category\ name\ address\ phoneNo
+comment2.target=void\ createCustomer(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=customerId
+comment3.target=void\ deleteCustomer(int)
+comment4.params=customerId\ name\ address\ phoneNo\ category
+comment4.target=void\ updateCustomer(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=customerId
+comment5.target=boolean\ checkCustomerId(int)
+comment6.params=customerId
+comment6.target=Customer\ getCustomer(int)
+comment7.params=
+comment7.target=void\ printAllCustomers()
+comment8.params=customerId
+comment8.target=void\ printOneCustomerDetails(int)
+comment9.params=customerId\ category
+comment9.target=void\ setCategory(int,\ java.lang.String)
+numComments=11

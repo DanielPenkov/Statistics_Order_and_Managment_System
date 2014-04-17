@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EmployeeManager()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CustomerManager\r\n
+comment1.params=
+comment1.target=EmployeeManager\ getInstance()
+comment10.params=
+comment10.target=void\ printEmployeesSoldProducts()
+comment2.params=employeeID\ userName\ password\ name\ department\ role
+comment2.target=void\ createEmployee(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=employeeID
+comment3.target=void\ deleteEmployee(int)
+comment4.params=employeeID\ name\ department\ role
+comment4.target=void\ updateEmployee(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=employeeID
+comment5.target=boolean\ checkEmployeeID(int)
+comment6.params=employeeID
+comment6.target=Employee\ getEmployee(int)
+comment7.params=
+comment7.target=void\ printAllEmployees()
+comment8.params=employeeID
+comment8.target=void\ printEmployeeDetails(int)
+comment9.params=employee
+comment9.target=void\ addEmployee(Employee)
+numComments=11

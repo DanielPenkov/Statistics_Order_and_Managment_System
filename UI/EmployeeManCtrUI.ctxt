@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=inputParser
+comment0.target=EmployeeManCtrUI(InputParser)
+comment1.params=
+comment1.target=void\ start()
+comment2.params=
+comment2.target=void\ printEmployeeDetails()
+comment3.params=
+comment3.target=void\ createEmployee()
+comment4.params=
+comment4.target=void\ printAllEmployees()
+comment5.params=
+comment5.target=void\ updateEmployee()
+numComments=6

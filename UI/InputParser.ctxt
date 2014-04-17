@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=InputParser()
+comment1.params=text
+comment1.target=int\ getInt(java.lang.String)
+comment2.params=text
+comment2.target=long\ getLong(java.lang.String)
+comment3.params=text
+comment3.target=java.lang.String\ getString(java.lang.String)
+comment4.params=text
+comment4.target=long\ getDate(java.lang.String)
+comment5.params=
+comment5.target=void\ printReturn()
+comment6.params=
+comment6.target=long\ getCurrentDate()
+numComments=7

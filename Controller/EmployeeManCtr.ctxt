@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EmployeeManCtr()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ EmployeeManCtr\r\n
+comment1.params=id\ username\ password\ name\ department\ role
+comment1.target=void\ createEmployee(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=id
+comment2.target=Model.Employee\ getEmployee(int)
+comment3.params=id
+comment3.target=void\ printEmployeeDetails(int)
+comment4.params=id\ userName\ password\ name\ department\ role
+comment4.target=void\ updateEmployee(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ printAllEmployees()
+comment6.params=id\ username\ password
+comment6.target=boolean\ checkAccount(int,\ java.lang.String,\ java.lang.String)
+comment7.params=
+comment7.target=void\ printEmployeesSoldProducts()
+numComments=8

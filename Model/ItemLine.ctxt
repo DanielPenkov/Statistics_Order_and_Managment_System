@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ItemLine()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ProductHistory\r\n
+comment1.params=productId\ warehouse\ quantity
+comment1.target=ItemLine(int,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=double\ getPCost()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=void\ print2()
+comment4.params=
+comment4.target=void\ print3()
+comment5.params=
+comment5.target=int\ getProductId()
+comment6.params=
+comment6.target=java.lang.String\ getProductWarehouse()
+comment7.params=
+comment7.target=double\ getProductPrice()
+comment8.params=
+comment8.target=Product\ getProduct()
+comment9.params=
+comment9.target=int\ getQuantity()
+numComments=11

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CustomerManCtr()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CustomerManCtr\r\n
+comment1.params=id\ category\ name\ address\ phoneNo
+comment1.target=void\ createCustomer(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=id
+comment2.target=Model.Customer\ getCustomer(int)
+comment3.params=id
+comment3.target=void\ printCustomer(int)
+comment4.params=
+comment4.target=void\ printAllCustomers()
+comment5.params=customerId\ name\ address\ phoneNo\ category
+comment5.target=void\ updateCustomer(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=6
